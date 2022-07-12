@@ -3,7 +3,6 @@
 ## I'm a Front End Developer!! 👩‍💻
 
 - 🤓 I'm learning how to make cool SparkAR Filters
-- 🎯 2021 Goals: Contribute more to Open Source projects
 - 🐬 Fun fact: I love to play my Ukulele when I'm not working
 
 
